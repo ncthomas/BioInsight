@@ -1,0 +1,6 @@
+patientID,state,CD4,CD8,C127
+patient1,C,20,40,34
+patient2,C,25,42,45
+patient3,H,30,46,12
+patient4,H,34,56,34
+patient5,C,31,41,20
